@@ -1,0 +1,43 @@
+.unit {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+.health {
+    height: 20px;
+    background-color: red;
+    margin-top: 20px;
+}
+
+.stamina {
+    height: 20px;
+    background-color: yellow;
+    margin-top: 20px;
+}
+
+.character {
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.pic {
+    width: 100px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img {
+    width: 80%;
+    padding: 10px;
+}
